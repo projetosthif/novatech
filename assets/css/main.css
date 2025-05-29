@@ -2402,13 +2402,13 @@ section,
     gap: 20px;
   }
 
-  .card {
+  .area {
     width: 45%; /* Dois por linha com espaço */
   }
 }
 
 @media (max-width: 480px) {
-  .card {
-    width: 100%; /* Um por linha em telas bem pequenas */
+  .area {
+    width: 40%; /* Um por linha em telas bem pequenas */
   }
 }
