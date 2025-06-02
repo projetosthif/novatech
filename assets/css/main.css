@@ -910,7 +910,7 @@ section,
 .hero p {
   font-size: 15px;
   font-weight: 400;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .hero form {
@@ -2197,8 +2197,10 @@ section,
   padding: 2%;
   color: var(--contrast-color);
   border-radius: 8px;
-  font-size: 90%;
  }
+
+ 
+
  .btn-fale1:hover {
   background-color:#059652;
   color: var(--contrast-color);
@@ -2359,6 +2361,10 @@ section,
 
   .about .feature-boxes .feature-title {
     margin-top: 0.5rem;
+  }
+
+  .btn-fale1{
+    width: 100%;
   }
 }
 
