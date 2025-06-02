@@ -2196,7 +2196,8 @@ section,
   background-color: #06bd4c;
   padding: 2%;
   color: var(--contrast-color);
-  border-radius: 8px
+  border-radius: 8px;
+  font-size: 90%;
  }
  .btn-fale1:hover {
   background-color:#059652;
@@ -2262,6 +2263,10 @@ section,
 
 .mapa{
   margin-top: 5%;
+}
+
+.contato-alinhamento{
+  text-align: left;
 }
 
 /*FEATURE BOXES - CARDS EMBAIXO DO SOBRE*/
